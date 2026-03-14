@@ -14,3 +14,5 @@ Each folder contains tasks related to Git practice.
 
 ## Author
 Rza Quluzadə
+
+NEW VERSION
