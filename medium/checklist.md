@@ -1,0 +1,4 @@
+- Create profile page
+- Add user details
+- Check changes
+- Merge to master branch
